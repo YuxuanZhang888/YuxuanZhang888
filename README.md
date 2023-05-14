@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Yuxuan Zhang from Nanjing, China.I am currently studying Bussiness Information Technology at University of Twente. I'm currently working on a few projects, but I'm always looking for new opportunities to work in a real-world environment. 
 
 <!--
 **YuxuanZhang888/YuxuanZhang888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
